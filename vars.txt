@@ -1,0 +1,9 @@
+export REPLACE1=Bash
+export REPLACE2=computer
+export REPLACE3=code
+export REPLACE4=@REPLACE6@
+export REPLACE5=valueable
+export REPLACE6=3467
+export REPLACE7=GeekyCamp
+export REPLACE8=aaokfoa@abv.bg
+export REPLACE9=123
